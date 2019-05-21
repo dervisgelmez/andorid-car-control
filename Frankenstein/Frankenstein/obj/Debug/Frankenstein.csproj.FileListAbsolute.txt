@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\bin\Debug\Frankenstein.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\bin\Debug\Frankenstein.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\bin\Debug\Frankenstein.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\bin\Debug\MaterialSkin.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\obj\Debug\Frankenstein.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\obj\Debug\Frankenstein.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\obj\Debug\Frankenstein.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\obj\Debug\Frankenstein.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\obj\Debug\Frankenstein.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Frankenstein\Frankenstein\obj\Debug\Frankenstein.pdb
